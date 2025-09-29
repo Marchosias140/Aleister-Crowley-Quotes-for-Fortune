@@ -20,4 +20,4 @@ You can also use Cowsay
 
 ```sudo dnf install cowsay ```
 
-``` fortune bookofthelaw | cowsay ```
+``` fortune crowley | cowsay ```
